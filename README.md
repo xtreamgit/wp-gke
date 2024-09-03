@@ -1,1 +1,1 @@
-# wp-k8s
+# wp-gks
